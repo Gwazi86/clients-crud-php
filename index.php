@@ -58,18 +58,6 @@ if(!$query) {
     ";
 }
 ?>
-                <!-- <tr>
-                    <td>10</td>
-                    <td>Andile Magwaza</td>
-                    <td>andilesylvestermagwaza@gmail.com</td>
-                    <td>+27739963060</td>
-                    <td>Stand No. 439, Hectorspruit</td>
-                    <td>22/10/2026</td>
-                    <td>
-                        <a class="btn btn-primary btn-sm" href="/clients/edit.php">Edit</a>
-                        <a class="btn btn-primary btn-sm" href="/clients/delete.php">Delete</a>
-                    </td>
-                </tr> -->
             </tbody>
         </table>
     </div>
