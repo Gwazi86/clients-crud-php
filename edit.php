@@ -66,7 +66,7 @@ else {
 
         header("location: /clients/index.php");
 
-    } while(true);
+    } while(false);
 }
 ?>
 <!DOCTYPE html>
